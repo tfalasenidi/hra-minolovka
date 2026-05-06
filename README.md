@@ -12,9 +12,9 @@
 
 ## ✨ Vlastnosti
 
-⚡ Rychlá a nenáročná
-🔧 Snadno upravitelná
-📦 Modulární architektura
+> ⚡ Rychlá a nenáročná
+> 🔧 Snadno upravitelná
+> 📦 Modulární architektura
 
 ---
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🧑‍💻 Authors
+## 🧑‍💻 Autoři
 
 **Tymofii Falasenidi, Karpenko Tymur, Blasl Jan, Herda Artem**  
-- GitHub: [@tfalasenidi](https://github.com/)tfalasenidi
+- GitHub: [@tfalasenidi](https://github.com/tfalasenidi)
