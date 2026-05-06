@@ -33,6 +33,8 @@
  ┣ 📜 resources.xlsx
  ┣ 📜 hra_minolovka.sb3
  ┣ 📜 README.md
+ ┣ 📁 images
+ ┃ ┗ 🖼️ image.png
  ┗ 📜 LICENSE
 ```
 
