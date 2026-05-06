@@ -1,55 +1,32 @@
-# 🚀 Awesome Project
+# 🚀 Project Minesweeper game on Scratch
 
 ![GitHub stars](https://img.shields.io/github/stars/tfalasenidi/hra-minolovka?style=social)
 ![License](https://img.shields.io/github/license/tfalasenidi/hra-minolovka)
-![GitHub tag](https://img.shields.io/github/v/tag/tfalasenidi/hra-minolovka)
 
-> Hra minolovka na poli 8x8.
-
----
-
-## ✨ Features
-
-- ⚡ Fast and lightweight
-- 🔧 Easy to customize
-- 📦 Modular architecture
-- 🌍 Works across platforms
+> Tento projekt je hra Minolovka, která byla vytvořena v programu Scratch.
+> Cílem hry je odhalit všechna bezpečná pole na herním poli, aniž by hráč klikl na minu.
+> Pokud hráč klikne na pole s minou, hra končí prohrou.
+> Hra rozvíjí logické myšlení, protože hráč musí podle čísel odhadovat, kde se nachází miny.
 
 ---
 
-## 📸 Preview
+## ✨ Vlastnosti
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Demo Screenshot" />
-</p>
-
----
-
-## 🛠️ Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/username/repo.git
-
-# Navigate into the folder
-cd repo
-
-# Install dependencies
-npm install
-```
+⚡ Rychlá a nenáročná
+🔧 Snadno upravitelná
+📦 Modulární architektura
 
 ---
 
-## 📁 Project Structure
+## 📁 Struktura projektu
 
 ```bash
 📦 repo
- ┣ 📂 src
- ┃ ┣ 📜 index.js
- ┃ ┗ 📜 utils.js
- ┣ 📂 tests
+ ┣ 📜 documentation.docx
+ ┣ 📜 resources.xlsx
+ ┣ 📜 hra_minolovka.sb3
  ┣ 📜 README.md
- ┗ 📜 package.json
+ ┗ 📜 LICENSE
 ```
 
 ---
@@ -60,21 +37,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🌟 Show Your Support
-
-Give a ⭐️ if you like this project!
-
----
-
 ## 🧑‍💻 Authors
 
-**Your Name**  
-- GitHub: [@username](https://github.com/username)
-- Twitter: [@username](https://twitter.com/username)
-
----
-
-## 🎉 Acknowledgements
-
-- Inspiration from awesome open-source projects
-- Thanks to all contributors ❤️
+**Tymofii Falasenidi, Karpenko Tymur, Blasl Jan, Herda Artem**  
+- GitHub: [@tfalasenidi](https://github.com/)tfalasenidi
