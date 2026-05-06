@@ -20,6 +20,10 @@
 
 ---
 
+![Project Preview](images/preview.png)
+
+---
+
 ## 📁 Struktura projektu
 
 ```bash
