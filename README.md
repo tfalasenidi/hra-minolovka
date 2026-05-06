@@ -1,7 +1,7 @@
 # 🚀 Project Minesweeper game on Scratch
 
-![GitHub stars](https://img.shields.io/github/stars/tfalasenidi/hra-minolovka?style=social)
 ![License](https://img.shields.io/github/license/tfalasenidi/hra-minolovka)
+![License](https://img.shields.io/badge/Minesweeper-8A2BE2)
 
 > Tento projekt je hra Minolovka, která byla vytvořena v programu Scratch.
 > Cílem hry je odhalit všechna bezpečná pole na herním poli, aniž by hráč klikl na minu.
