@@ -12,9 +12,11 @@
 
 ## ✨ Vlastnosti
 
-> ⚡ Rychlá a nenáročná
-> 🔧 Snadno upravitelná
-> 📦 Modulární architektura
+⚡ Rychlá a nenáročná
+
+🔧 Snadno upravitelná
+
+📦 Modulární architektura
 
 ---
 
