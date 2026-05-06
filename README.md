@@ -20,7 +20,7 @@
 
 ---
 
-![Project Preview](images/preview.png)
+![Project Preview](images/image.png)
 
 ---
 
